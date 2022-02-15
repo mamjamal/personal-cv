@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="scss.css">
+    <meta charset="utf-8">
+    <title>personal cv</title>
+  </head>
+  <body>
+<div class=>
+  <p style="align:center">
+  <img src="billgates.jpg" alt="billgates photo" height="40%" width="40%">
+  </p>
+  <h2><u>Personal Info</u></h2>
+  <h4>Name : billgates</h4>
+  <h4>Email : billgates@gmail.com</h4>
+  <h4>address : United states </h4>
+  <h4>phone : 111-111-121 </h4>
+  <h4>Owner : Microsoft Company </h4>
+  <h2><u>Skills</u></h2>
+  <h4>Programming</h4>
+  <h4>Managing</h4>
+  <h4>Businnes</h4>
+  <h4>Creative ideas</h4>
+  <h2><u>hobbies</u></h2>
+  <h4>Computer Skills </h4>
+  <h4>Businnes</h4>
+</div>
+
+  </body>
+</html>
+//css
+div
+{
+  margin-left: 35%;
+  margin-right: 35%;
+  border: 2px solid blue;
+  background-color:#dfe0da;
+}
+img
+{
+  padding-left: 30%;
+}
+h2
+{
+  font-size: 50px;
+  text-align: center;
+  color: #40768f;
+  font-family: sans-serif;
+
+}
+h4
+{
+  font-size: 25px;
+  text-align: center;
+  color: #9e4c15;
+  font-family: monospace;
+}
